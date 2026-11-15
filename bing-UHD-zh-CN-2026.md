@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-14 04:54:32 UTC
+> 最后更新：2026-11-15 04:44:20 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-15 | 霜染枝叶 | 覆霜的红叶杜鹃 (© avoferten/Shutterstock) | [![霜染枝叶](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261115_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
 | 2026-11-14 | 唯有向上发展 | 中国香港维多利亚港 (© Juan Romero/Cavan Images) | [![唯有向上发展](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261114_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg) |
 | 2026-11-13 | 冰下秘境 | 亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images) | [![冰下秘境](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261113_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg) |
 | 2026-11-12 | 没有建筑师的建筑杰作 | 北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images) | [![没有建筑师的建筑杰作](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-zh-CN-2026/20261112_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg) |
