@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-14 04:41:50 UTC
+> Zuletzt aktualisiert：2026-11-15 04:31:39 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-15 | Frostige Blätter | Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock) | [![Frostige Blätter](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261115_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_DE-DE6574553682_UHD.jpg) |
 | 2026-11-14 | Hoch, höher, Hongkong | Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images) | [![Hoch, höher, Hongkong](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261114_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_UHD.jpg) |
 | 2026-11-13 | Verborgene Tiefen | Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images) | [![Verborgene Tiefen](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261113_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg) |
 | 2026-11-12 | Architektur ohne Architekten | North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architektur ohne Architekten](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-de-DE-2026/20261112_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg) |
