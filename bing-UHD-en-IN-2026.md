@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-11-14 04:45:55 UTC
+> Last updated：2026-11-15 04:36:25 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-15 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261115_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg) |
 | 2026-11-14 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261114_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg) |
 | 2026-11-13 | Glow of Chhath Puja | Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock) | [![Glow of Chhath Puja](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261113_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg) |
 | 2026-11-12 | Architecture without an architect | North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architecture without an architect](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261112_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg) |
