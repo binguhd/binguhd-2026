@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-14 04:49:36 UTC
+> Dernière mise à jour：2026-11-15 04:39:15 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-15 | Givre sur tons d'automne | Azalée gelée aux feuilles rouges (© avoferten/Shutterstock) | [![Givre sur tons d'automne](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261115_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_UHD.jpg) |
 | 2026-11-14 | Les yeux rivés vers le haut | Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images) | [![Les yeux rivés vers le haut](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261114_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.BlueHK_FR-FR2342913478_UHD.jpg) |
 | 2026-11-13 | Des profondeurs mystérieuses | Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images) | [![Des profondeurs mystérieuses](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261113_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg) |
 | 2026-11-12 | Architecture sans architecte | North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images) | [![Architecture sans architecte](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-fr-FR-2026/20261112_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg) |
