@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-11-15 04:37:43 UTC
+> Last updated：2026-11-16 04:35:03 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-16 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261116_320_en-US.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg) |
 | 2026-11-15 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261115_320_en-US.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg) |
 | 2026-11-14 | Hidden depths | Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images) | [![Hidden depths](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261114_320_en-US.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg) |
 | 2026-11-13 | Architecture without an architect | North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images) | [![Architecture without an architect](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-US-2026/20261113_320_en-US.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg) |
