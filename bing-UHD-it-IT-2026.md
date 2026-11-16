@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-15 04:40:52 UTC
+> Ultimo aggiornamento：2026-11-16 04:38:02 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-16 | Case scolpite per durare | Gila Cliff Dwellings National Monument, Nuovo Messico, USA (© Chiara Salvadori/Getty Images) | [![Case scolpite per durare](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261116_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg) |
 | 2026-11-15 | Foglie ghiacciate | Azalea rossa ricoperta di brina (© avoferten/Shutterstock) | [![Foglie ghiacciate](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261115_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_IT-IT9068405965_UHD.jpg) |
 | 2026-11-14 | Sempre più in alto | Victoria Harbour, Hong Kong, Cina (© Juan Romero/Cavan Images) | [![Sempre più in alto](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261114_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.BlueHK_IT-IT8939331622_UHD.jpg) |
 | 2026-11-13 | Misteri sommersi | Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images) | [![Misteri sommersi](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-it-IT-2026/20261113_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_UHD.jpg) |
