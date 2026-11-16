@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-11-15 04:36:25 UTC
+> Last updated：2026-11-16 04:33:23 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-16 | Built to last | Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images) | [![Built to last](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261116_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-IN2285530087_UHD.jpg) |
 | 2026-11-15 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261115_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg) |
 | 2026-11-14 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261114_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg) |
 | 2026-11-13 | Glow of Chhath Puja | Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock) | [![Glow of Chhath Puja](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-IN-2026/20261113_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg) |
