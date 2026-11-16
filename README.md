@@ -2,7 +2,7 @@
 
 ## 🚀 项目
 
-🔗 [bingmen/bing-UHD](https://github.com/bingmen/bing-UHD)
+🔗 [binguhd/binguhd](https://github.com/binguhd/binguhd)
 
 ## 😀 简介
 
@@ -10,85 +10,85 @@
 
 ## 📍 地区
 
-- de-DE：德语（德国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-de-DE-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-de-DE-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-de-DE-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-de-DE-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-de-DE-2022.html) 🔹
-- en-CA：英语（加拿大） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-CA-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-CA-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-CA-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-CA-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-CA-2022.html) 🔹
-- en-GB：英语（英国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-GB-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-GB-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-GB-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-GB-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-GB-2022.html) 🔹
-- en-IN：英语（印度） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-IN-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-IN-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-IN-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-IN-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-IN-2022.html) 🔹
-- en-US：英语（美国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-en-US-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-en-US-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-en-US-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-en-US-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-en-US-2022.html) 🔹
-- fr-FR：法语（法国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-fr-FR-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-fr-FR-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-fr-FR-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-fr-FR-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-fr-FR-2022.html) 🔹
-- it-IT：意大利语（意大利） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-it-IT-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-it-IT-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-it-IT-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-it-IT-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-it-IT-2022.html) 🔹
-- ja-JP：日语（日本） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-ja-JP-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-ja-JP-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-ja-JP-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-ja-JP-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-ja-JP-2022.html) 🔹
-- zh-CN：简体中文（中国） 🔹 [2026](https://uhd.bingmen.com/bing-UHD-2026/README-zh-CN-2026.html) 🔹 [2025](https://uhd.bingmen.com/bing-UHD-2025/README-zh-CN-2025.html) 🔹 [2024](https://uhd.bingmen.com/bing-UHD-2024/README-zh-CN-2024.html) 🔹 [2023](https://uhd.bingmen.com/bing-UHD-2023/README-zh-CN-2023.html) 🔹 [2022](https://uhd.bingmen.com/bing-UHD-2022/README-zh-CN-2022.html) 🔹
+- de-DE：德语（德国） 🔹 [2026](https://binguhd.com/binguhd-2026/README-de-DE-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-de-DE-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-de-DE-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-de-DE-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-de-DE-2022.html) 🔹
+- en-CA：英语（加拿大） 🔹 [2026](https://binguhd.com/binguhd-2026/README-en-CA-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-en-CA-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-en-CA-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-en-CA-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-en-CA-2022.html) 🔹
+- en-GB：英语（英国） 🔹 [2026](https://binguhd.com/binguhd-2026/README-en-GB-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-en-GB-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-en-GB-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-en-GB-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-en-GB-2022.html) 🔹
+- en-IN：英语（印度） 🔹 [2026](https://binguhd.com/binguhd-2026/README-en-IN-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-en-IN-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-en-IN-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-en-IN-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-en-IN-2022.html) 🔹
+- en-US：英语（美国） 🔹 [2026](https://binguhd.com/binguhd-2026/README-en-US-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-en-US-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-en-US-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-en-US-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-en-US-2022.html) 🔹
+- fr-FR：法语（法国） 🔹 [2026](https://binguhd.com/binguhd-2026/README-fr-FR-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-fr-FR-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-fr-FR-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-fr-FR-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-fr-FR-2022.html) 🔹
+- it-IT：意大利语（意大利） 🔹 [2026](https://binguhd.com/binguhd-2026/README-it-IT-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-it-IT-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-it-IT-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-it-IT-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-it-IT-2022.html) 🔹
+- ja-JP：日语（日本） 🔹 [2026](https://binguhd.com/binguhd-2026/README-ja-JP-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-ja-JP-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-ja-JP-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-ja-JP-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-ja-JP-2022.html) 🔹
+- zh-CN：简体中文（中国） 🔹 [2026](https://binguhd.com/binguhd-2026/README-zh-CN-2026.html) 🔹 [2025](https://binguhd.com/binguhd-2025/README-zh-CN-2025.html) 🔹 [2024](https://binguhd.com/binguhd-2024/README-zh-CN-2024.html) 🔹 [2023](https://binguhd.com/binguhd-2023/README-zh-CN-2023.html) 🔹 [2022](https://binguhd.com/binguhd-2022/README-zh-CN-2022.html) 🔹
 
 ## 🗂️ 归档
 
-### 🐎 [2026](https://uhd.bingmen.com/bing-UHD-2026)
+### 🐎 [2026](https://binguhd.com/binguhd-2026)
 
-- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-de-DE-2026.html)
-- [Bing Daily Wallpaper - UHD - en-CA - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-CA-2026.html)
-- [Bing Daily Wallpaper - UHD - en-GB - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-GB-2026.html)
-- [Bing Daily Wallpaper - UHD - en-IN - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-IN-2026.html)
-- [Bing Daily Wallpaper - UHD - en-US - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-US-2026.html)
-- [Fond d'écran quotidien Bing - UHD - fr-FR - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-fr-FR-2026.html)
-- [Sfondo giornaliero di Bing - UHD - it-IT - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-it-IT-2026.html)
-- [Bing デイリー壁紙 - UHD - ja-JP - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-ja-JP-2026.html)
-- [Bing 每日壁纸 - UHD - zh-CN - 2026](https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-zh-CN-2026.html)
+- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026](https://binguhd.com/binguhd-2026/bing-UHD-de-DE-2026.html)
+- [Bing Daily Wallpaper - UHD - en-CA - 2026](https://binguhd.com/binguhd-2026/bing-UHD-en-CA-2026.html)
+- [Bing Daily Wallpaper - UHD - en-GB - 2026](https://binguhd.com/binguhd-2026/bing-UHD-en-GB-2026.html)
+- [Bing Daily Wallpaper - UHD - en-IN - 2026](https://binguhd.com/binguhd-2026/bing-UHD-en-IN-2026.html)
+- [Bing Daily Wallpaper - UHD - en-US - 2026](https://binguhd.com/binguhd-2026/bing-UHD-en-US-2026.html)
+- [Fond d'écran quotidien Bing - UHD - fr-FR - 2026](https://binguhd.com/binguhd-2026/bing-UHD-fr-FR-2026.html)
+- [Sfondo giornaliero di Bing - UHD - it-IT - 2026](https://binguhd.com/binguhd-2026/bing-UHD-it-IT-2026.html)
+- [Bing デイリー壁紙 - UHD - ja-JP - 2026](https://binguhd.com/binguhd-2026/bing-UHD-ja-JP-2026.html)
+- [Bing 每日壁纸 - UHD - zh-CN - 2026](https://binguhd.com/binguhd-2026/bing-UHD-zh-CN-2026.html)
 
-### 🐍 [2025](https://uhd.bingmen.com/bing-UHD-2025) 
+### 🐍 [2025](https://binguhd.com/binguhd-2025) 
 
-- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-de-DE-2025.html)
-- [Bing Daily Wallpaper - UHD - en-CA - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-CA-2025.html)
-- [Bing Daily Wallpaper - UHD - en-GB - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-GB-2025.html)
-- [Bing Daily Wallpaper - UHD - en-IN - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-IN-2025.html)
-- [Bing Daily Wallpaper - UHD - en-US - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-US-2025.html)
-- [Fond d'écran quotidien Bing - UHD - fr-FR - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-fr-FR-2025.html)
-- [Sfondo giornaliero di Bing - UHD - it-IT - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-it-IT-2025.html)
-- [Bing デイリー壁紙 - UHD - ja-JP - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-ja-JP-2025.html)
-- [Bing 每日壁纸 - UHD - zh-CN - 2025](https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-zh-CN-2025.html)
+- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2025](https://binguhd.com/binguhd-2025/bing-UHD-de-DE-2025.html)
+- [Bing Daily Wallpaper - UHD - en-CA - 2025](https://binguhd.com/binguhd-2025/bing-UHD-en-CA-2025.html)
+- [Bing Daily Wallpaper - UHD - en-GB - 2025](https://binguhd.com/binguhd-2025/bing-UHD-en-GB-2025.html)
+- [Bing Daily Wallpaper - UHD - en-IN - 2025](https://binguhd.com/binguhd-2025/bing-UHD-en-IN-2025.html)
+- [Bing Daily Wallpaper - UHD - en-US - 2025](https://binguhd.com/binguhd-2025/bing-UHD-en-US-2025.html)
+- [Fond d'écran quotidien Bing - UHD - fr-FR - 2025](https://binguhd.com/binguhd-2025/bing-UHD-fr-FR-2025.html)
+- [Sfondo giornaliero di Bing - UHD - it-IT - 2025](https://binguhd.com/binguhd-2025/bing-UHD-it-IT-2025.html)
+- [Bing デイリー壁紙 - UHD - ja-JP - 2025](https://binguhd.com/binguhd-2025/bing-UHD-ja-JP-2025.html)
+- [Bing 每日壁纸 - UHD - zh-CN - 2025](https://binguhd.com/binguhd-2025/bing-UHD-zh-CN-2025.html)
 
-### 🐉 [2024](https://uhd.bingmen.com/bing-UHD-2024)
+### 🐉 [2024](https://binguhd.com/binguhd-2024)
 
-- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-de-DE-2024.html)
-- [Bing Daily Wallpaper - UHD - en-CA - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-CA-2024.html)
-- [Bing Daily Wallpaper - UHD - en-GB - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-GB-2024.html)
-- [Bing Daily Wallpaper - UHD - en-IN - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-IN-2024.html)
-- [Bing Daily Wallpaper - UHD - en-US - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-US-2024.html)
-- [Fond d'écran quotidien Bing - UHD - fr-FR - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-fr-FR-2024.html)
-- [Sfondo giornaliero di Bing - UHD - it-IT - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-it-IT-2024.html)
-- [Bing デイリー壁紙 - UHD - ja-JP - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-ja-JP-2024.html)
-- [Bing 每日壁纸 - UHD - zh-CN - 2024](https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-zh-CN-2024.html)
+- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2024](https://binguhd.com/binguhd-2024/bing-UHD-de-DE-2024.html)
+- [Bing Daily Wallpaper - UHD - en-CA - 2024](https://binguhd.com/binguhd-2024/bing-UHD-en-CA-2024.html)
+- [Bing Daily Wallpaper - UHD - en-GB - 2024](https://binguhd.com/binguhd-2024/bing-UHD-en-GB-2024.html)
+- [Bing Daily Wallpaper - UHD - en-IN - 2024](https://binguhd.com/binguhd-2024/bing-UHD-en-IN-2024.html)
+- [Bing Daily Wallpaper - UHD - en-US - 2024](https://binguhd.com/binguhd-2024/bing-UHD-en-US-2024.html)
+- [Fond d'écran quotidien Bing - UHD - fr-FR - 2024](https://binguhd.com/binguhd-2024/bing-UHD-fr-FR-2024.html)
+- [Sfondo giornaliero di Bing - UHD - it-IT - 2024](https://binguhd.com/binguhd-2024/bing-UHD-it-IT-2024.html)
+- [Bing デイリー壁紙 - UHD - ja-JP - 2024](https://binguhd.com/binguhd-2024/bing-UHD-ja-JP-2024.html)
+- [Bing 每日壁纸 - UHD - zh-CN - 2024](https://binguhd.com/binguhd-2024/bing-UHD-zh-CN-2024.html)
 
-### 🐇 [2023](https://uhd.bingmen.com/bing-UHD-2023)
+### 🐇 [2023](https://binguhd.com/binguhd-2023)
 
-- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-de-DE-2023.html)
-- [Bing Daily Wallpaper - UHD - en-CA - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-CA-2023.html)
-- [Bing Daily Wallpaper - UHD - en-GB - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-GB-2023.html)
-- [Bing Daily Wallpaper - UHD - en-IN - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-IN-2023.html)
-- [Bing Daily Wallpaper - UHD - en-US - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-US-2023.html)
-- [Fond d'écran quotidien Bing - UHD - fr-FR - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-fr-FR-2023.html)
-- [Sfondo giornaliero di Bing - UHD - it-IT - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-it-IT-2023.html)
-- [Bing デイリー壁紙 - UHD - ja-JP - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-ja-JP-2023.html)
-- [Bing 每日壁纸 - UHD - zh-CN - 2023](https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-zh-CN-2023.html)
+- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2023](https://binguhd.com/binguhd-2023/bing-UHD-de-DE-2023.html)
+- [Bing Daily Wallpaper - UHD - en-CA - 2023](https://binguhd.com/binguhd-2023/bing-UHD-en-CA-2023.html)
+- [Bing Daily Wallpaper - UHD - en-GB - 2023](https://binguhd.com/binguhd-2023/bing-UHD-en-GB-2023.html)
+- [Bing Daily Wallpaper - UHD - en-IN - 2023](https://binguhd.com/binguhd-2023/bing-UHD-en-IN-2023.html)
+- [Bing Daily Wallpaper - UHD - en-US - 2023](https://binguhd.com/binguhd-2023/bing-UHD-en-US-2023.html)
+- [Fond d'écran quotidien Bing - UHD - fr-FR - 2023](https://binguhd.com/binguhd-2023/bing-UHD-fr-FR-2023.html)
+- [Sfondo giornaliero di Bing - UHD - it-IT - 2023](https://binguhd.com/binguhd-2023/bing-UHD-it-IT-2023.html)
+- [Bing デイリー壁紙 - UHD - ja-JP - 2023](https://binguhd.com/binguhd-2023/bing-UHD-ja-JP-2023.html)
+- [Bing 每日壁纸 - UHD - zh-CN - 2023](https://binguhd.com/binguhd-2023/bing-UHD-zh-CN-2023.html)
 
-### 🐅 [2022](https://uhd.bingmen.com/bing-UHD-2022)
+### 🐅 [2022](https://binguhd.com/binguhd-2022)
 
-- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-de-DE-2022.html)
-- [Bing Daily Wallpaper - UHD - en-CA - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-CA-2022.html)
-- [Bing Daily Wallpaper - UHD - en-GB - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-GB-2022.html)
-- [Bing Daily Wallpaper - UHD - en-IN - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-IN-2022.html)
-- [Bing Daily Wallpaper - UHD - en-US - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-US-2022.html)
-- [Fond d'écran quotidien Bing - UHD - fr-FR - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-fr-FR-2022.html)
-- [Sfondo giornaliero di Bing - UHD - it-IT - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-it-IT-2022.html)
-- [Bing デイリー壁紙 - UHD - ja-JP - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-ja-JP-2022.html)
-- [Bing 每日壁纸 - UHD - zh-CN - 2022](https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-zh-CN-2022.html)
+- [Bing-Tägliches Hintergrundbild - UHD - de-DE - 2022](https://binguhd.com/binguhd-2022/bing-UHD-de-DE-2022.html)
+- [Bing Daily Wallpaper - UHD - en-CA - 2022](https://binguhd.com/binguhd-2022/bing-UHD-en-CA-2022.html)
+- [Bing Daily Wallpaper - UHD - en-GB - 2022](https://binguhd.com/binguhd-2022/bing-UHD-en-GB-2022.html)
+- [Bing Daily Wallpaper - UHD - en-IN - 2022](https://binguhd.com/binguhd-2022/bing-UHD-en-IN-2022.html)
+- [Bing Daily Wallpaper - UHD - en-US - 2022](https://binguhd.com/binguhd-2022/bing-UHD-en-US-2022.html)
+- [Fond d'écran quotidien Bing - UHD - fr-FR - 2022](https://binguhd.com/binguhd-2022/bing-UHD-fr-FR-2022.html)
+- [Sfondo giornaliero di Bing - UHD - it-IT - 2022](https://binguhd.com/binguhd-2022/bing-UHD-it-IT-2022.html)
+- [Bing デイリー壁紙 - UHD - ja-JP - 2022](https://binguhd.com/binguhd-2022/bing-UHD-ja-JP-2022.html)
+- [Bing 每日壁纸 - UHD - zh-CN - 2022](https://binguhd.com/binguhd-2022/bing-UHD-zh-CN-2022.html)
 
 ## 📦 存储
 
-- 🐎 [bing-UHD-2026](https://github.com/bingmen/bing-UHD-2026)
-- 🐍 [bing-UHD-2025](https://github.com/bingmen/bing-UHD-2025)
-- 🐉 [bing-UHD-2024](https://github.com/bingmen/bing-UHD-2024)
-- 🐇 [bing-UHD-2023](https://github.com/bingmen/bing-UHD-2023)
-- 🐅 [bing-UHD-2022](https://github.com/bingmen/bing-UHD-2022)
+- 🐎 [binguhd-2026](https://github.com/binguhd/binguhd-2026)
+- 🐍 [binguhd-2025](https://github.com/binguhd/binguhd-2025)
+- 🐉 [binguhd-2024](https://github.com/binguhd/binguhd-2024)
+- 🐇 [binguhd-2023](https://github.com/binguhd/binguhd-2023)
+- 🐅 [binguhd-2022](https://github.com/binguhd/binguhd-2022)
 
 ## 🗂️ 目录
 
