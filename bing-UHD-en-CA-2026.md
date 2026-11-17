@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-16 04:30:01 UTC
+> Last updated：2026-11-17 01:19:26 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-17 | Built to last | Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images) | [![Built to last](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261117_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_UHD.jpg) |
 | 2026-11-16 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261116_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_UHD.jpg) |
 | 2026-11-15 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261115_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-CA2709774125_UHD.jpg) |
 | 2026-11-14 | Hidden depths | Abraham Lake in Alberta (© Guang Cao/Getty Images) | [![Hidden depths](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-2026@main/bing-320-en-CA-2026/20261114_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_UHD.jpg) |
