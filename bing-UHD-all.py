@@ -1,8 +1,8 @@
-# bing-UHD-all-0.0.0.py
+# binguhd-all-0.1.0.py
 # github.com/shenjuexiao
-# 20261022
+# 20261117
 
-# bing-UHD-all.py
+# binguhd-all.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -68,7 +68,7 @@ TABLE_SEPARATOR = "| :---: | :---: | :---: | :---: |"
 
 BING_BASE = "https://www.bing.com"
 BING_ARCHIVE = "https://www.bing.com/HPImageArchive.aspx"
-CDN_BASE = "https://cdn.jsdelivr.net/gh/bingmen/bing-UHD-{year}@main"
+CDN_BASE = "https://cdn.jsdelivr.net/gh/binguhd/binguhd-{year}@main"
 
 HEADERS = {
     "User-Agent": (
