@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-17 01:17:27 UTC
+> Zuletzt aktualisiert：2026-11-17 06:14:19 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
