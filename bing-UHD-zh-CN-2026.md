@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-17 13:35:43 UTC
+> 最后更新：2026-11-18 05:10:25 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-18 | 从黄昏狩猎到黎明 | 一对仓鸮 (© Zahoor Salmi/Getty Images) | [![从黄昏狩猎到黎明](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-zh-CN-2026/20261118_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg) |
 | 2026-11-17 | 走进广阔的大自然 | 雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images) | [![走进广阔的大自然](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-zh-CN-2026/20261117_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | 美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images) | [![历经岁月，屹立不倒](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-zh-CN-2026/20261116_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
 | 2026-11-15 | 霜染枝叶 | 覆霜的红叶杜鹃 (© avoferten/Shutterstock) | [![霜染枝叶](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-zh-CN-2026/20261115_320_zh-CN.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
