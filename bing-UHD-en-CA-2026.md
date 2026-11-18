@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-17 13:23:00 UTC
+> Last updated：2026-11-18 05:00:13 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-19 | Hunting from dusk till dawn | Pair of barn owls (© Zahoor Salmi/Getty Images) | [![Hunting from dusk till dawn](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261119_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg) |
 | 2026-11-18 | Step into the great outdoors | Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images) | [![Step into the great outdoors](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261118_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166_UHD.jpg) |
 | 2026-11-17 | Built to last | Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images) | [![Built to last](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261117_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-CA1952203135_UHD.jpg) |
 | 2026-11-16 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261116_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-CA1501787869_UHD.jpg) |
