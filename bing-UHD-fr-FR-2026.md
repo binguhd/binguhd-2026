@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-18 05:05:57 UTC
+> Dernière mise à jour：2026-11-19 05:01:54 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-19 | Quand les idées prennent forme | "Body of Knowledge" sculpture de Jaume Plensa, Université Goethe de Francfort, Allemagne (© Todamo/Shutterstock) | [![Quand les idées prennent forme](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261119_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg) |
 | 2026-11-18 | Chasser du crépuscule à l’aube | Couple de chouettes effraies  (© Zahoor Salmi/Getty Images) | [![Chasser du crépuscule à l’aube](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261118_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg) |
 | 2026-11-17 | À la découverte des grands espaces | Sentier des cèdres, parc national de Glacier, Montana, États-Unis (© DBushue Photography/Getty Images) | [![À la découverte des grands espaces](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261117_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg) |
 | 2026-11-16 | Construites pour durer | Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images) | [![Construites pour durer](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261116_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg) |
