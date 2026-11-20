@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-11-19 05:00:16 UTC
+> Last updated：2026-11-20 04:50:09 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-20 | Where ideas take shape | The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock) | [![Where ideas take shape](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-US-2026/20261120_320_en-US.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg) |
 | 2026-11-19 | Hunting from dusk till dawn | Pair of barn owls (© Zahoor Salmi/Getty Images) | [![Hunting from dusk till dawn](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-US-2026/20261119_320_en-US.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg) |
 | 2026-11-18 | Step into the great outdoors | Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images) | [![Step into the great outdoors](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-US-2026/20261118_320_en-US.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg) |
 | 2026-11-17 | Built to last | Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images) | [![Built to last](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-US-2026/20261117_320_en-US.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg) |
