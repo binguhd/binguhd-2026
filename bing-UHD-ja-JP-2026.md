@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-19 05:05:11 UTC
+> 最終更新：2026-11-20 04:55:15 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-20 | フィヨルドを訪れる冬の使者 | 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures) | [![フィヨルドを訪れる冬の使者](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261120_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg) |
 | 2026-11-19 | アイデアが形になる場所 | ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock) | [![アイデアが形になる場所](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261119_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg) |
 | 2026-11-18 | 夕暮れから始まる狩り | メンフクロウのつがい (© Zahoor Salmi/Getty Images) | [![夕暮れから始まる狩り](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261118_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg) |
 | 2026-11-17 | さあ、大自然の中へ | トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images) | [![さあ、大自然の中へ](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261117_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg) |
