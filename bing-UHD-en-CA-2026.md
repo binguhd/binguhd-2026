@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-20 04:45:06 UTC
+> Last updated：2026-11-21 04:41:05 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-21 | Feasting in the fjords | Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures) | [![Feasting in the fjords](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261121_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg) |
 | 2026-11-20 | Where ideas take shape | The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock) | [![Where ideas take shape](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261120_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg) |
 | 2026-11-19 | Hunting from dusk till dawn | Pair of barn owls (© Zahoor Salmi/Getty Images) | [![Hunting from dusk till dawn](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261119_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg) |
 | 2026-11-18 | Step into the great outdoors | Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images) | [![Step into the great outdoors](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-CA-2026/20261118_320_en-CA.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_EN-CA2369458166_UHD.jpg) |
