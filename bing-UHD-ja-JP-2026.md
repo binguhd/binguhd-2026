@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-21 04:50:19 UTC
+> 最終更新：2026-11-22 04:04:35 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | 波間にたたずむ隠れ家 | サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images) | [![波間にたたずむ隠れ家](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261122_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg) |
 | 2026-11-21 | テラコッタ色に染まる街 | ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images) | [![テラコッタ色に染まる街](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261121_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg) |
 | 2026-11-20 | フィヨルドを訪れる冬の使者 | 潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures) | [![フィヨルドを訪れる冬の使者](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261120_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg) |
 | 2026-11-19 | アイデアが形になる場所 | ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock) | [![アイデアが形になる場所](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261119_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg) |
