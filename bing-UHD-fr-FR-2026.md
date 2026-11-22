@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-21 04:46:59 UTC
+> Dernière mise à jour：2026-11-22 04:01:20 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | Refuge au milieu des vagues | Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images) | [![Refuge au milieu des vagues](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261122_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg) |
 | 2026-11-21 | Mosaïque de terre cuite | Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images) | [![Mosaïque de terre cuite](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261121_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg) |
 | 2026-11-20 | Festin dans les fjords | Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures) | [![Festin dans les fjords](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261120_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg) |
 | 2026-11-19 | Quand les idées prennent forme | "Body of Knowledge" sculpture de Jaume Plensa, Université Goethe de Francfort, Allemagne (© Todamo/Shutterstock) | [![Quand les idées prennent forme](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261119_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg) |
