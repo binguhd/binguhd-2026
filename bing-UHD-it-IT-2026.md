@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-21 04:48:37 UTC
+> Ultimo aggiornamento：2026-11-22 04:02:53 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | Un rifugio tra le onde | Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images) | [![Un rifugio tra le onde](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261122_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg) |
 | 2026-11-21 | Un sogno color terracotta | Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images) | [![Un sogno color terracotta](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261121_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg) |
 | 2026-11-20 | A banchetto tra i fiordi | Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures) | [![A banchetto tra i fiordi](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261120_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg) |
 | 2026-11-19 | Dove le idee prendono forma | "Body of Knowledge", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock) | [![Dove le idee prendono forma](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261119_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_UHD.jpg) |
