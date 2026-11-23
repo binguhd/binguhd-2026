@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-11-22 03:57:44 UTC
+> Last updated：2026-11-23 04:36:36 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-23 | Geometry in nature | Fiddlehead fern (© Reza Saputra/Getty Images) | [![Geometry in nature](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261123_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg) |
 | 2026-11-22 | Shelter among the waves | The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images) | [![Shelter among the waves](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261122_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg) |
 | 2026-11-21 | Terracotta dreams | Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images) | [![Terracotta dreams](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261121_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_UHD.jpg) |
 | 2026-11-20 | Feasting in the fjords | Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures) | [![Feasting in the fjords](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261120_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg) |
