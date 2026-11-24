@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-23 04:39:26 UTC
+> Dernière mise à jour：2026-11-24 07:34:45 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-24 | Camouflage d’automne | Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures) | [![Camouflage d’automne](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261124_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg) |
 | 2026-11-23 | Géométrie au naturel | Pousse de fougère (© Reza Saputra/Getty Images) | [![Géométrie au naturel](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261123_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg) |
 | 2026-11-22 | Refuge au milieu des vagues | Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images) | [![Refuge au milieu des vagues](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261122_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg) |
 | 2026-11-21 | Mosaïque de terre cuite | Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images) | [![Mosaïque de terre cuite](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261121_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg) |
