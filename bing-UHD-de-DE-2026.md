@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-23 04:31:54 UTC
+> Zuletzt aktualisiert：2026-11-24 07:27:07 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-24 | Herbstliche Tarnung | Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures) | [![Herbstliche Tarnung](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-de-DE-2026/20261124_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg) |
 | 2026-11-23 | Geometrie in der Natur | Farnspitzen (© Reza Saputra/Getty Images) | [![Geometrie in der Natur](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-de-DE-2026/20261123_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg) |
 | 2026-11-22 | Kapelle im Fels | Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images) | [![Kapelle im Fels](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-de-DE-2026/20261122_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg) |
 | 2026-11-21 | Ein Traum aus Terrakotta | Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images) | [![Ein Traum aus Terrakotta](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-de-DE-2026/20261121_320_de-DE.jpg)](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg) |
