@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-24 07:30:29 UTC
+> Last updated：2026-11-25 06:00:56 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-26 | When snow meets red rock | Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy) | [![When snow meets red rock](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261126_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_UHD.jpg) |
 | 2026-11-25 | Autumnal camouflage | Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures) | [![Autumnal camouflage](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261125_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_UHD.jpg) |
 | 2026-11-24 | Geometry in nature | Fiddlehead fern (© Reza Saputra/Getty Images) | [![Geometry in nature](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261124_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_UHD.jpg) |
 | 2026-11-23 | Shelter among the waves | The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images) | [![Shelter among the waves](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261123_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-GB3758221368_UHD.jpg) |
