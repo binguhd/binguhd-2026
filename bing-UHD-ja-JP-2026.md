@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-24 07:38:06 UTC
+> 最終更新：2026-11-25 06:09:19 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-25 | 赤い奇岩の雪化粧 | サンセット・ポイント、ブライスキャニオン国立公園、ユタ州 (© Colin D. Young/Alamy) | [![赤い奇岩の雪化粧](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261125_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg) |
 | 2026-11-24 | 紅葉にまぎれて | キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures) | [![紅葉にまぎれて](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261124_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg) |
 | 2026-11-23 | 自然が描く幾何学模様 | シダの若芽 (© Reza Saputra/Getty Images) | [![自然が描く幾何学模様](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261123_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg) |
 | 2026-11-22 | 波間にたたずむ隠れ家 | サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images) | [![波間にたたずむ隠れ家](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-ja-JP-2026/20261122_320_ja-JP.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg) |
