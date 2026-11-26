@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-11-25 06:02:45 UTC
+> Last updated：2026-11-26 05:53:59 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-26 | Where rainbows fall | Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images) | [![Where rainbows fall](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261126_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.RFHilo_EN-IN3818497787_UHD.jpg) |
 | 2026-11-25 | When snow meets red rock | Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy) | [![When snow meets red rock](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261125_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg) |
 | 2026-11-24 | Autumnal camouflage | Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures) | [![Autumnal camouflage](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261124_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_UHD.jpg) |
 | 2026-11-23 | Geometry in nature | Fiddlehead fern (© Reza Saputra/Getty Images) | [![Geometry in nature](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-IN-2026/20261123_320_en-IN.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg) |
