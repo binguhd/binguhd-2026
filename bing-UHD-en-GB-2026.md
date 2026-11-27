@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-26 05:52:10 UTC
+> Last updated：2026-11-27 05:45:41 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-28 | Ribbons of grey and gold | Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden) | [![Ribbons of grey and gold](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261128_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg) |
 | 2026-11-27 | Where rainbows fall | Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images) | [![Where rainbows fall](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261127_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg) |
 | 2026-11-26 | When snow meets red rock | Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy) | [![When snow meets red rock](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261126_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_UHD.jpg) |
 | 2026-11-25 | Autumnal camouflage | Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures) | [![Autumnal camouflage](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-en-GB-2026/20261125_320_en-GB.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_UHD.jpg) |
