@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour：2026-11-27 05:49:55 UTC
+> Dernière mise à jour：2026-11-28 05:29:33 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-28 | De pont en pont | Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images) | [![De pont en pont](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261128_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg) |
 | 2026-11-27 | Rubans gris et or | Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden) | [![Rubans gris et or](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261127_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg) |
 | 2026-11-26 | Là où tombent les arcs-en-ciel | Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images) | [![Là où tombent les arcs-en-ciel](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261126_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg) |
 | 2026-11-25 | Cheminées de fées enneigées | Sunset Point, parc national de Bryce Canyon, Utah, États-Unis (© Colin D. Young/Alamy) | [![Cheminées de fées enneigées](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-fr-FR-2026/20261125_320_fr-FR.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg) |
