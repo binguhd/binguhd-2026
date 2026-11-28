@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-27 05:51:48 UTC
+> Ultimo aggiornamento：2026-11-28 05:31:13 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-28 | Ponti attraverso il tempo | Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images) | [![Ponti attraverso il tempo](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261128_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_UHD.jpg) |
 | 2026-11-27 | Acqua, terra e fuoco nel cielo | Butte al tramonto, Face Canyon, Lago Powell, Utah, USA (© Jeff Foott/Minden) | [![Acqua, terra e fuoco nel cielo](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261127_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_IT-IT4616461166_UHD.jpg) |
 | 2026-11-26 | Dove nascono gli arcobaleni | Rainbow Falls sul fiume Wailuku, Hilo, Hawaii, Stati Uniti (© Peter Unger/Getty Images) | [![Dove nascono gli arcobaleni](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261126_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_UHD.jpg) |
 | 2026-11-25 | Il canyon si veste di bianco | Sunset Point, Parco Nazionale del Bryce Canyon, Utah (© Colin D. Young/Alamy) | [![Il canyon si veste di bianco](https://cdn.jsdelivr.net/gh/binguhd/binguhd-2026@main/bing-320-it-IT-2026/20261125_320_it-IT.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_IT-IT9291683501_UHD.jpg) |
